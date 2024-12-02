@@ -1,1 +1,11 @@
-{}
+{
+	"name": "guia-de-postagem",
+	"description": "Publica um guia sobre como fazer novas sugestões",
+	"optionsHideName": "esconder",
+	"optionsHideDescription": "Deseja que o guia seja escondido ou não",
+	"optionsTargetName": "usuário",
+	"optionsTargetDescription": "O usuário a mencionar na mensagem",
+	"message": "Para enviar uma nova sugestão, use o comando {{command}} com {{bot}} ou clique no botão \"Enviar uma Sugestão\" anexado.\n\nSua mensagem será postada em {{channel}}.",
+	"buttonSubmit": "Enviar uma sugestão",
+	"buttonSupport": "Servidor de suporte"
+}

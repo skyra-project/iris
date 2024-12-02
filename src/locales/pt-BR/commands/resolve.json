@@ -1,1 +1,23 @@
-{}
+{
+	"name": "avaliação",
+	"description": "Encerra uma sugestão e diz a consideração",
+	"archiveName": "arquivar",
+	"archiveDescription": "Arquiva uma sugestão",
+	"acceptName": "aprovada",
+	"acceptDescription": "Marca uma sugestão como aprovada",
+	"considerName": "em-consideração",
+	"considerDescription": "Marca uma sugestão como em consideração",
+	"denyName": "negada",
+	"denyDescription": "Marca uma sugestão como negada",
+	"optionsIdName": "id",
+	"optionsIdDescription": "ID da sugestão a atualizar",
+	"optionsResponseName": "resposta",
+	"optionsResponseDescription": "Resposta a ser adicionada na sugestão",
+	"suggestionArchived": "Sugestões arquivadas não podem ser editadas.",
+	"suggestionIdDoesNotExist": "O ID da sugestão que você especificou não existe.",
+	"suggestionMessageDeleted": "A sugestão foi apagada, portanto, foi automaticamente arquivada.",
+	"archiveSuccess": "Sucesso em arquivar a sugestão {{id}}.",
+	"noReason": "*Nenhum motivo especificado*",
+	"success": "Sucesso em atualizar a sugestão {{id}}.",
+	"failure": "Desculpe, mas eu não consegui atualizar a sugestão {{id}}!"
+}
